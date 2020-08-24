@@ -5,17 +5,17 @@ Purpose:  This assignment is aimed at giving you experience with the lab environ
 
 Problem: Write a program that introduces you and your partner to the class (this information will be shared). 
 
-Details: You will write your program in the "pair programmingù model": one of you is the driver while the other is the navigator.  Once the first driver has written the statements about their partner, switch roles. The steps below match the tutorial you watched before lab, and the GitHub Quick Guide on Moodle. You may need to reference both.
+Details: You will write your program in the "pair programming¬ù model": one of you is the driver while the other is the navigator.  Once the first driver has written the statements about their partner, switch roles. The steps below match the tutorial you watched before lab, and the GitHub Quick Guide on Moodle. You may need to reference both.
 
 1.	OPEN PyCharm.
 
-2.	START FILE: There is no start file for this lab. In PyCharm, in order to create a new Python source code file, choose New->Project, then New->Python File from the available menu. Name your new file LastName1LastName2Lab0ù and click OK.ù 
+2.	START FILE: There is no start file for this lab. In PyCharm, in order to create a new Python source code file, choose New->Project, then New->Python File from the available menu. Name your new file LastName1LastName2Lab0¬ù and click OK.¬ù 
 
 3.	CODE: Write code in your LastName1LastName2Lab0.py file. First type   
-print( "CS151 Lab 0"ù)
+print( "CS151 Lab 0" )
 inside the file.
 
-4.	RUN: Run your program by clicking on the Runù menu, then choosing Runù from the drop down menu. Note that once you complete this step once, you can instead click on the green arrow at the top right.
+4.	RUN: Run your program by clicking on the Run¬ù menu, then choosing Run¬ù from the drop down menu. Note that once you complete this step once, you can instead click on the green arrow at the top right.
 
 5.	TEST: Look at the output at the bottom of PyCharm. Does it appear the way you want? If not, or if instead you see an error, try to fix your code so that it does what you want (you will need to run again afterward).
 
@@ -28,19 +28,19 @@ inside the file.
 7.	COMMENT: Comments are part of the Python file but not part of the code. They are used to explain how the code works to human readers of the code.  Once your program runs properly, add introductory comments at the top of your file that match the ones below but are edited to be personalized to you and your partner. The comments will appear as a different color in PyCharm (light grey). Make sure the program runs correctly after the comments are inserted.
   
   # Programmers:  [your name here]
-  # Course:  CS151.0X, Professor Franceschi [replace X with your section, 1 for 12PM, 2 for 1PM]
+  # Course:  CS151.01, Professor Franceschi
   # Date: [today's date]
   # Lab Assignment:  [number of assignment]
   # Problem Statement:  [what problem does your code solve; what does the code do for you?]
-  # Data In: [what information do you request from the user? for Lab0, put Noneù]
+  # Data In: [what information do you request from the user? for Lab0, put None¬ù]
   # Data Out:  [What information do you display for the user?]
   # Other files needed:  [This won't be relevant until later in the course.]
   # Credits: [Is your code based on an example in the book, in class, or something else?  
               Reminder: you should never take code from the Internet or another person.]
   
-8.	Once you are done in lab, you need to upload it to Moodle.
+8.	Once you are done with the lab, you need to upload it to Moodle.
 
-9. Show your program running and on Moodle to the professor before leaving the classroom.
+9. Show your program running and on Moodle to the professor before leaving the Zoom classroom.
 
 What to Submit:
 
